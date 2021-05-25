@@ -1,8 +1,28 @@
 # Social Media Sentiment Analysis Engine
 
 ### Navigate this Repository
-
-![github_directory](https://github.com/xinegan88/AppleM1OpinionMining/blob/main/images/github_directory.png)
+```
+apple-m1-sentiments
+│ README.md
+└─notebooks
+│   2020_02_02_CE_VectorizeData.ipynb
+│   2021_01_29_CE_EDA.ipynb
+│   2021_02_01_CE_TestNB_PreprocessData.ipynb
+│   2021_02_01_Models_NB.ipynb2021_02_01_Models_NB.ipynb
+│   2021_02_01_Models_SVC.ipynb
+└─data
+│   2020_02_05_CombinedData.csv
+│   2021-02-05_13_04_16.csv
+└─src
+│   app.py
+│   eda_visualizations.py
+│   general_functions.py
+│   model_functions.py
+│   process_data.py
+│   reddit_api.py
+│   twitter_api.py
+    
+```
 
 ## What do users think about the Apple M1 chip?
 
